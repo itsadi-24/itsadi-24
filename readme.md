@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+👋+I'm+Adi+Prasan+Khuntia;Full-Stack+Developer;Computer+Science+Student;Active+Learner/Researcher;Love+to+learn+new+stuffs..<3">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Hi+👋+I'm+Adi+Prasan+Khuntia;Full-Stack+Developer;Computer+Science+Enthusiast;Active+Learner/Researcher;Love+to+learn+new+stuffs..<3">
 </div>
 
 <div align="center">
@@ -24,7 +24,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- 🏢 I'm a Computer Science Student passionate about Full Stack Development
+- 🏢 I'm a tech enthusiast passionate about Full Stack Development
 - 🔭 Currently working on expanding my system design knowledge
 - 🌱 Always learning and staying updated with latest tech trends
 - 👨‍💻 All my projects are available at [adiprasan.me](https://www.adiprasan.me)
